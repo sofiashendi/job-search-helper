@@ -1,0 +1,8 @@
+{
+  "name": "job-search-helper",
+  "description": "AI-powered job search skills for Claude Code. Import resumes, score job postings, tailor resumes, prep for behavioral interviews, and track applications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sofia Shendi"
+  }
+}

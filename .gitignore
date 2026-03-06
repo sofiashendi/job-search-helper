@@ -1,0 +1,49 @@
+# Environment
+.env
+.envrc
+.venv
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files (root-level only)
+/applications/
+/resumes/
+/star-stories/
+/.tmp/
+
+# Generated documents
+*.pdf
+*.docx
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Local env overrides
+.env.local
+.env.*.local
+
+# User preferences
+.job-search-helper.json
+
+# Credential files
+*.pem
+*.key
+credentials.json
+token.json
+
+# Claude local settings
+.claude/settings.local.json
+
+# IDE
+.idea/
+.vscode/
+
+# One-off deployment/QA docs (personal, not shipped)
+/prep/

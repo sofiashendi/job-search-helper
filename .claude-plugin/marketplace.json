@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "job-search-helper",
+  "metadata": {
+    "description": "AI-powered job search skills for Claude Code."
+  },
+  "owner": {
+    "name": "Sofia Shendi"
+  },
+  "plugins": [
+    {
+      "name": "job-search-helper",
+      "description": "Complete job search workflow: resume import, match scoring, resume tailoring, STAR interview prep, and application tracking.",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
